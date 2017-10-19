@@ -5,8 +5,26 @@
     
     <url>
     
-      <loc>https://lmwang9527.github.io/project/urban-models/</loc>
-      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+      <loc>https://lmwang9527.github.io/talk/usp549f17/</loc>
+      <lastmod>2017-10-18T15:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lmwang9527.github.io/project/example-external-project/</loc>
+      <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lmwang9527.github.io/talk/acsp2017/</loc>
+      <lastmod>2017-10-13T10:15:00+00:00</lastmod>
     </url>
     
   
@@ -50,15 +68,6 @@
     
     <url>
     
-      <loc>https://lmwang9527.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://lmwang9527.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -77,44 +86,8 @@
     
     <url>
     
-      <loc>https://lmwang9527.github.io/project/housing-choice/</loc>
+      <loc>https://lmwang9527.github.io/project/modeling/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -124,25 +97,6 @@
     
       <loc>https://lmwang9527.github.io/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/publication_types/1/</loc>
-      <lastmod>2017-08-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -169,7 +123,17 @@
     
     <url>
     
-      <loc>https://lmwang9527.github.io/tags/housing-choice/</loc>
+      <loc>https://lmwang9527.github.io/</loc>
+      <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://lmwang9527.github.io/tags/modeling/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,28 +143,8 @@
     
     <url>
     
-      <loc>https://lmwang9527.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/</loc>
-      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+      <loc>https://lmwang9527.github.io/tags/other/</loc>
+      <lastmod>2017-10-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,7 +164,7 @@
     <url>
     
       <loc>https://lmwang9527.github.io/project/</loc>
-      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,7 +174,7 @@
     <url>
     
       <loc>https://lmwang9527.github.io/publication_types/</loc>
-      <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,16 +215,6 @@
     
       <loc>https://lmwang9527.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://lmwang9527.github.io/tags/urban-models/</loc>
-      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
