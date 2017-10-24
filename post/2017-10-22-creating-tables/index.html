@@ -48,7 +48,7 @@
 
   
 
-  <title>Creating Tables for Microsoft Word output with R Markdown (as of 2017/10) | Liming Wang</title>
+  <title>Creating Tables for Microsoft Word output with R Markdown | Liming Wang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -151,7 +151,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Creating Tables for Microsoft Word output with R Markdown (as of 2017/10)</h1>
+    <h1 itemprop="name">Creating Tables for Microsoft Word output with R Markdown</h1>
     
 
 <div class="article-metadata">
@@ -196,7 +196,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown%20%28as%20of%202017%2f10%29&amp;url=%2fpost%2f2017-10-22-creating-tables%2f"
+         href="https://twitter.com/intent/tweet?text=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown&amp;url=%2fpost%2f2017-10-22-creating-tables%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
@@ -210,21 +210,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2f2017-10-22-creating-tables%2f&amp;title=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown%20%28as%20of%202017%2f10%29"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2f2017-10-22-creating-tables%2f&amp;title=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2f2017-10-22-creating-tables%2f&amp;title=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown%20%28as%20of%202017%2f10%29"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2f2017-10-22-creating-tables%2f&amp;title=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown%20%28as%20of%202017%2f10%29&amp;body=%2fpost%2f2017-10-22-creating-tables%2f">
+         href="mailto:?subject=Creating%20Tables%20for%20Microsoft%20Word%20output%20with%20R%20Markdown&amp;body=%2fpost%2f2017-10-22-creating-tables%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -248,7 +248,7 @@
 <ol style="list-style-type: decimal">
 <li>Gmisc::docx_document (the output is a html file with an additional <code>css</code> file; no support for Word style template);</li>
 <li>Convert html output to Word document through <code>soffice</code> (the output is very basic; no support for template);</li>
-<li>Pure R solution <code>officer</code> + <code>flextable</code> (They can generate pure good Word output, but they do not work with R Markdown).</li>
+<li>Pure R solution <code>officer</code> + <code>flextable</code> (They can generate good looking Word output, but they do not work with R Markdown yet (see below)).</li>
 </ol>
 </div>
 <div id="my-solutionhack-as-of-201710" class="section level1">
@@ -272,7 +272,7 @@
 <li><code>source(&quot;patch_docx_tables.R&quot;); patchFlexTables(&quot;reg_tables_demo.docx&quot;, &quot;tabs/&quot;, &quot;reg_tables_demo_final.docx&quot;)</code></li>
 <li>Final <a href="https://github.com/cities-lab/rmd-docx/blob/master/reg_tables_demo_final.docx?raw=true">reg_tables_demo.docx</a></li>
 </ol>
-<p>Files can be founded on github: <a href="https://github.com/cities-lab/rmd-docx" class="uri">https://github.com/cities-lab/rmd-docx</a></p>
+<p>All files/scripts used can be founded on github: <a href="https://github.com/cities-lab/rmd-docx" class="uri">https://github.com/cities-lab/rmd-docx</a></p>
 </div>
 </div>
 <div id="alternativesthings-to-watch-out" class="section level1">
