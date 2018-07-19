@@ -2,29 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Liming Wang</title>
-    <link>https://lmwang9527.github.io/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Liming Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Liming Wang</copyright>
+    <copyright>&amp;copy; 2017-18 Liming Wang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>De-Transformation Bias in Non-linear Trip Generation Models</title>
-      <link>https://lmwang9527.github.io/publication/detransformation-bias-trip-generation/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmwang9527.github.io/publication/detransformation-bias-trip-generation/</guid>
-      <description></description>
-    </item>
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Housing location choices of the poor: does access to jobs matter?</title>
-      <link>https://lmwang9527.github.io/publication/housing-location-choices-of-the-poor/</link>
+      <link>/publication/housing-location-choices-of-the-poor/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lmwang9527.github.io/publication/housing-location-choices-of-the-poor/</guid>
+      <guid>/publication/housing-location-choices-of-the-poor/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Liming Wang</title>
-    <link>https://lmwang9527.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Liming Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Liming Wang</copyright>
+    <copyright>&amp;copy; 2017-18 Liming Wang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Land Use Models for Regional Planning and Growth Management</title>
-      <link>https://lmwang9527.github.io/talk/usp549f17/</link>
+      <link>/talk/usp549f17/</link>
       <pubDate>Wed, 18 Oct 2017 15:00:00 +0000</pubDate>
       
-      <guid>https://lmwang9527.github.io/talk/usp549f17/</guid>
+      <guid>/talk/usp549f17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Models vs Machine Learning: A Reflection with Two Case Studies</title>
-      <link>https://lmwang9527.github.io/talk/acsp2017/</link>
+      <link>/talk/acsp2017/</link>
       <pubDate>Fri, 13 Oct 2017 10:15:00 +0000</pubDate>
       
-      <guid>https://lmwang9527.github.io/talk/acsp2017/</guid>
+      <guid>/talk/acsp2017/</guid>
       <description></description>
     </item>
     
