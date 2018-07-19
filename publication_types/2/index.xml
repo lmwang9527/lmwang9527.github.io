@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-18 Liming Wang</copyright>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>De-Transformation Bias in Non-linear Trip Generation Models</title>
+      <link>/publication/detransformation-bias-trip-generation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/detransformation-bias-trip-generation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Housing location choices of the poor: does access to jobs matter?</title>
