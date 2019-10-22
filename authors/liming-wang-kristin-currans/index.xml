@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liming Wang, Kristin Currans | Liming Wang</title>
+    <link>/authors/liming-wang-kristin-currans/</link>
+      <atom:link href="/authors/liming-wang-kristin-currans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liming Wang, Kristin Currans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Liming Wang</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Liming Wang, Kristin Currans</title>
+      <link>/authors/liming-wang-kristin-currans/</link>
+    </image>
+    
+    <item>
+      <title>De-Transformation Bias in Non-linear Trip Generation Models</title>
+      <link>/publication/detransformation-bias-trip-generation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/detransformation-bias-trip-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

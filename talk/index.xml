@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Liming Wang</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Liming Wang</copyright><lastBuildDate>Wed, 18 Oct 2017 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Land Use Models for Regional Planning and Growth Management</title>
+      <link>/talk/usp549f17/</link>
+      <pubDate>Wed, 18 Oct 2017 15:00:00 +0000</pubDate>
+      <guid>/talk/usp549f17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Models vs Machine Learning: A Reflection with Two Case Studies</title>
+      <link>/talk/acsp2017/</link>
+      <pubDate>Fri, 13 Oct 2017 10:15:00 -0700</pubDate>
+      <guid>/talk/acsp2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

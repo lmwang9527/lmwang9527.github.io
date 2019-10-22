@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Liming Wang</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Liming Wang</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Liming Wang, Kristin Currans</title>
+      <link>/authors/liming-wang-kristin-currans/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/liming-wang-kristin-currans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liming Wang</title>
+      <link>/authors/liming-wang/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/liming-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingqian Hu</title>
+      <link>/authors/lingqian-hu/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/lingqian-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Dr. Wang’s research takes a data-driven approach to address challenging issues in planning, in particular those intersecting land use and transportation. Relying on data analysis, simulation and visualization techniques, his research aims to inform policy makers and the public of the effects of infrastructure and policy choices on community outcomes such as accessibility, environment, and equity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

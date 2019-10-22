@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liming Wang</title>
+    <link>/authors/liming-wang/</link>
+      <atom:link href="/authors/liming-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liming Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Liming Wang</copyright><lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Liming Wang</title>
+      <link>/authors/liming-wang/</link>
+    </image>
+    
+    <item>
+      <title>Housing location choices of the poor: does access to jobs matter?</title>
+      <link>/publication/housing-location-choices-of-the-poor/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/housing-location-choices-of-the-poor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
